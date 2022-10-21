@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tarunb17
+- 👀 I’m interested in Learning coding
+- 🌱 I’m currently learning Machine Learning and Front-end web development to integrate and deploy my ML model
+- 💞️ I’m looking to collaborate on beginner friendly projects
+- 📫 How to reach me linked_in id (https://www.linkedin.com/in/tarun-b-784770202/)
